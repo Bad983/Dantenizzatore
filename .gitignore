@@ -3,3 +3,4 @@ _old/
 desktop.ini
 logs/
 weights/
+venv/
