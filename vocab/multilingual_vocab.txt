@@ -120,8 +120,8 @@ et
 se
 tu
 with
-##e
 have
+##e
 che
 het
 och
@@ -166,8 +166,8 @@ don
 nicht
 om
 at
-what
 an
+what
 das
 als
 mi
@@ -253,8 +253,8 @@ ma
 op
 ##i
 como
-sich
 har
+sich
 mon
 per
 hat
@@ -280,8 +280,8 @@ dit
 wir
 sur
 here
-man
 par
+man
 comme
 going
 esta
@@ -308,8 +308,8 @@ doesn
 mas
 aan
 why
-ll
 told
+ll
 ben
 up
 only
@@ -429,9 +429,9 @@ really
 three
 sus
 school
+##to
 toen
 ##ta
-##to
 cuando
 della
 nu
@@ -449,8 +449,8 @@ mein
 then
 aime
 ##do
-beatrice
 beaucoup
+beatrice
 seine
 jamais
 work
@@ -506,8 +506,8 @@ porque
 such
 sono
 ##na
-back
 skulle
+back
 hans
 please
 friends
@@ -526,9 +526,9 @@ dar
 quando
 give
 ##ly
+##va
 money
 ##da
-##va
 right
 entre
 sehr
@@ -554,8 +554,8 @@ maintenant
 dire
 peut
 sag
-today
 mal
+today
 monde
 place
 ur
@@ -571,12 +571,12 @@ meer
 problem
 yesterday
 must
-mehr
 party
+mehr
 morning
 next
-wil
 ##ti
+wil
 estaba
 eat
 point
@@ -596,9 +596,9 @@ sua
 comment
 voir
 besoin
+tatoeba
 weg
 ##le
-tatoeba
 sagte
 toi
 toujours
@@ -661,13 +661,13 @@ wants
 question
 kom
 keine
-##is
 sans
 dieu
 dieser
 zij
 left
 parle
+##is
 ##mente
 peux
 ##it
@@ -676,8 +676,8 @@ pourquoi
 pense
 deja
 australia
-under
 took
+under
 vad
 far
 etaient
@@ -702,19 +702,19 @@ since
 mother
 away
 ci
+hoe
 todo
 doing
-hoe
 notre
 believe
 ##lo
 punto
+##as
 todos
 zien
 able
 avoir
 livre
-##as
 also
 aux
 room
@@ -730,8 +730,8 @@ jullie
 another
 parce
 apres
-ya
 bist
+ya
 ahora
 name
 uber
@@ -745,6 +745,7 @@ ecole
 mycket
 parler
 wasn
+##m
 alors
 nel
 viel
@@ -755,7 +756,6 @@ dei
 ga
 liebe
 maestro
-##m
 aller
 christmas
 hon
@@ -772,23 +772,23 @@ learn
 nothing
 use
 zum
-##k
 modo
-##me
+##k
 leurs
 personne
+##me
 sais
-hen
 ##st
 estoy
+hen
 words
 wordt
 week
 john
 peur
-##ia
 avant
 ging
+##ia
 ##la
 muy
 around
@@ -802,9 +802,9 @@ ese
 fois
 zag
 din
-##ig
 each
 entonces
+##ig
 femme
 ##ie
 looking
@@ -814,8 +814,8 @@ sah
 ##mos
 detta
 sera
-jetzt
 quien
+jetzt
 auch
 nella
 nie
@@ -848,15 +848,15 @@ best
 bij
 grand
 celui
-##an
 gibt
+##an
 hay
 leben
-again
 terre
+again
+seinen
 ##ste
 dus
-seinen
 yet
 esperanto
 haven
@@ -885,9 +885,9 @@ hui
 young
 hur
 aujourd
-light
 ##al
 leave
+light
 quelque
 essere
 eyes
@@ -926,16 +926,16 @@ ogni
 cio
 eau
 plan
-stay
 zoals
 bon
+stay
 cela
 etwas
 fa
-konnte
 prendre
 answer
 dalla
+konnte
 gott
 hope
 puede
@@ -947,11 +947,11 @@ estas
 poco
 amor
 bolgia
-bought
 country
 dois
 sina
 antes
+bought
 ##ur
 bus
 fu
@@ -972,17 +972,17 @@ gehen
 high
 sentence
 warum
+anglais
 cada
-kein
 poi
 someone
-anglais
+kein
 others
 mai
 afraid
-demain
 gaan
 viele
+demain
 soy
 difficult
 brother
@@ -994,19 +994,19 @@ jusqu
 sei
 mere
 mind
+remember
 times
 angst
 nichts
-remember
 tierra
 zonder
 earth
 having
 weren
-##ung
 jour
 knows
 terra
+##ung
 mundo
 pain
 change
@@ -1020,8 +1020,8 @@ turned
 zeit
 mientras
 weet
-married
 ceux
+married
 sia
 sol
 different
@@ -1031,10 +1031,10 @@ letter
 ##den
 busy
 twee
-face
 questions
 vais
 ##ba
+face
 until
 ##si
 end
@@ -1069,9 +1069,9 @@ land
 tired
 li
 tiempo
+##g
 might
 travail
-##g
 living
 nom
 ojos
@@ -1086,10 +1086,10 @@ write
 gens
 stop
 cause
-veut
 despues
 ten
 ut
+veut
 eu
 late
 questa
@@ -1132,8 +1132,8 @@ macht
 ##ais
 vision
 nada
-pendant
 ihren
+pendant
 sedan
 jeder
 tun
@@ -1146,14 +1146,14 @@ cosa
 japanese
 hombre
 oreille
-##heid
-leven
-cafe
-sister
-wurden
 ##ge
+cafe
+leven
+wurden
+##heid
 nagon
 onze
+sister
 spend
 allora
 ora
@@ -1234,15 +1234,15 @@ girl
 gora
 quanto
 woorden
+dort
 police
 visto
 born
 contre
-dort
-##sa
 else
 soir
 sous
+##sa
 chambre
 film
 full
@@ -1253,20 +1253,20 @@ coming
 hacer
 ord
 siempre
+##ade
 languages
 minutes
 summer
 ##vo
 estan
 mismo
-zwei
 sea
+zwei
 ##ble
 ##ent
 lives
 seiner
 vraiment
-##ade
 happen
 knew
 occhi
@@ -1283,20 +1283,20 @@ satt
 selbst
 ##ado
 erde
-na
 tag
 tra
 waarom
 heilige
 kwam
+na
 poiche
-##ige
 ##so
 chez
 fin
 hebt
 tutto
 river
+##ige
 chien
 deras
 morgen
@@ -1305,9 +1305,9 @@ wissen
 dopo
 ##lich
 seem
+station
 studying
 forsta
-station
 white
 achete
 gusta
@@ -1340,10 +1340,10 @@ reason
 tried
 tva
 makes
-niemand
 ziel
 gesagt
 nagot
+niemand
 reading
 vrouw
 delle
@@ -1374,7 +1374,6 @@ fosse
 momento
 order
 usually
-##ren
 ge
 spent
 telephone
@@ -1383,14 +1382,15 @@ tuo
 ##mi
 choses
 damit
+##ren
 alli
 child
 seinem
 crois
+speaking
 ##iez
 anime
 nosotros
-speaking
 tre
 ##tion
 ames
@@ -1401,10 +1401,10 @@ altra
 geld
 mag
 souls
+hace
 interesting
 anche
 cote
-hace
 marika
 punkt
 seemed
@@ -1430,7 +1430,9 @@ hou
 niets
 probably
 ##are
+##kt
 ##li
+##sse
 ad
 cual
 dein
@@ -1438,20 +1440,19 @@ dis
 iedereen
 langue
 loin
-yourself
-##kt
 became
 kunnen
 less
 moins
 quale
 tenia
+yourself
 ame
 gute
 ingen
 nouveau
 seelen
-##sse
+##ga
 dont
 during
 television
@@ -1471,14 +1472,13 @@ surprised
 ##zione
 alma
 tijd
-##ga
-##ire
 chance
 erano
 homework
 jorden
 ogon
 wife
+##ire
 gesehen
 probleme
 sole
@@ -1495,8 +1495,8 @@ verite
 guide
 side
 six
-watch
 meiner
+watch
 wieder
 ##ch
 ##mo
@@ -1506,9 +1506,9 @@ music
 seul
 visit
 ##or
+berg
 death
 semble
-berg
 bort
 phrase
 ##ca
@@ -1516,6 +1516,7 @@ daar
 drei
 mujer
 tokyo
+##at
 getting
 small
 tempo
@@ -1524,7 +1525,6 @@ afin
 heureux
 mieux
 wonder
-##at
 fell
 frere
 hablar
@@ -1537,6 +1537,7 @@ wind
 ##h
 dies
 eines
+eso
 fui
 game
 goede
@@ -1546,7 +1547,6 @@ worte
 ##ions
 big
 care
-eso
 laisse
 luego
 ##el
@@ -1568,6 +1568,7 @@ phrases
 bli
 eerste
 faites
+lang
 ##aient
 dall
 difficile
@@ -1575,7 +1576,6 @@ human
 ihrer
 juste
 komt
-lang
 nombre
 start
 wait
@@ -1603,10 +1603,10 @@ fortfarande
 heure
 matin
 mondo
+##que
 arrived
 borjade
 ljus
-##que
 dia
 goes
 jeune
@@ -1624,11 +1624,11 @@ photo
 anima
 etiez
 later
-mountain
 steeds
 stor
 verdad
 goddelijke
+mountain
 vita
 wanneer
 ##das
@@ -1638,11 +1638,13 @@ comes
 montre
 sido
 tant
+triste
 nell
 reden
-triste
 vater
+##co
 eres
+trying
 ##ri
 begon
 body
@@ -1650,9 +1652,7 @@ finished
 kommt
 partir
 return
-trying
 zwischen
-##co
 ##ux
 arrete
 dentro
@@ -1700,12 +1700,13 @@ otra
 pizza
 verlangen
 aucun
-bring
 problems
 second
 ##che
 birthday
+bring
 chiens
+keinen
 lire
 terug
 todas
@@ -1714,7 +1715,6 @@ gegen
 geht
 impossible
 jours
-keinen
 tete
 evening
 gingen
@@ -1740,12 +1740,12 @@ vista
 among
 blev
 certain
-faim
 ferme
 form
 wollte
 explain
 facebook
+faim
 horen
 large
 manana
@@ -1753,7 +1753,6 @@ mussen
 travailler
 tussen
 weekend
-##ite
 beiden
 persona
 quoi
@@ -1789,14 +1788,14 @@ zeggen
 adore
 eating
 hundred
-##rar
+##ite
 elke
 nez
 sarebbe
 story
 tus
 weather
-##ir
+##rar
 ##sen
 company
 dess
@@ -1822,16 +1821,17 @@ sometimes
 ##c
 ##ue
 black
-favor
 lado
+##ir
 assez
+favor
 foreign
+herself
 medan
 paroles
 whose
 anders
 hands
-herself
 near
 pay
 stad
@@ -1900,6 +1900,7 @@ partie
 professeur
 wij
 ##able
+gezien
 hasn
 madre
 position
@@ -1911,8 +1912,6 @@ boy
 chat
 corps
 desir
-fine
-gezien
 mains
 sicher
 though
@@ -1922,6 +1921,7 @@ voordat
 ##ter
 aucune
 continue
+fine
 ir
 joue
 manniskor
@@ -1931,6 +1931,7 @@ aun
 deteste
 tror
 wine
+ainsi
 concert
 dark
 fear
@@ -1940,17 +1941,16 @@ naam
 written
 wrote
 ##tes
-ainsi
 appelle
 brillante
 geben
 graag
+histoire
 secret
 travaille
 vois
 buch
 creo
-histoire
 killed
 schien
 learned
@@ -2039,6 +2039,7 @@ degli
 moeten
 taken
 ##ck
+##gt
 ##heit
 bank
 germany
@@ -2052,24 +2053,23 @@ move
 pauvres
 pijn
 stopped
+whom
 deinen
 ecrire
 internet
 prefere
-price
 public
 rich
 tellement
 trouver
-whom
 autour
 chemin
 german
 nouvelle
 nuestra
 pres
+price
 sempre
-thinks
 vedere
 winter
 allemaal
@@ -2078,12 +2078,12 @@ libro
 maken
 mano
 radio
+thinks
 tv
 vag
 varfor
 works
 30
-acheter
 america
 primo
 prison
@@ -2091,8 +2091,8 @@ quickly
 spreken
 ##ada
 ##go
-##gt
 ##nen
+acheter
 allen
 aura
 bois
@@ -2116,13 +2116,13 @@ tard
 tourne
 veces
 zichzelf
-kunt
 ##ja
 clothes
 contra
 denen
 geist
 hoy
+kunt
 tree
 wenig
 accord
@@ -2190,11 +2190,11 @@ nieuwe
 pretty
 sommeil
 store
-voice
 ##ic
 christus
 driver
-bit
+quiere
+voice
 cuore
 estaban
 evil
@@ -2202,27 +2202,27 @@ fehler
 fruit
 gesicht
 inside
-laquelle
 necessary
 noble
-quiere
 respect
 sick
-similar
 sondern
-visite
 ##b
+bit
 chess
 chicago
 endroit
 faisait
 hora
 image
+laquelle
 maniere
 montagne
 short
+similar
 svarade
 tranen
+visite
 chacun
 glauben
 liv
@@ -2232,7 +2232,6 @@ seid
 sky
 traves
 cabeza
-cadeaux
 confiance
 ero
 etudier
@@ -2241,6 +2240,7 @@ instead
 lat
 stora
 bang
+cadeaux
 flamme
 grandes
 hair
@@ -2274,11 +2274,9 @@ verstehen
 wahrheit
 walking
 ##lig
-##rade
 ##ria
 ##ron
 bridge
-bureau
 fare
 fino
 garden
@@ -2296,27 +2294,29 @@ visited
 ##ono
 ab
 altre
+bureau
 vandaag
-##ling
 ##men
 ##ut
 accept
 decision
 dingen
 experience
+fish
 font
 gaf
 mettre
 mie
 puedes
 santo
+##ling
 ##v
 aquellos
 eaten
-fish
 leaving
 muchos
 ##man
+##rade
 ##ted
 abandonne
 alltid
@@ -2339,7 +2339,6 @@ malade
 noche
 solen
 star
-toms
 weten
 ##use
 ah
@@ -2352,6 +2351,7 @@ ersten
 longtemps
 mourir
 saker
+toms
 vilket
 alrededor
 cheveux
@@ -2370,7 +2370,6 @@ vrai
 ##vi
 appris
 clear
-dood
 fatigue
 frage
 igen
@@ -2378,6 +2377,7 @@ intense
 samma
 test
 dolor
+dood
 estar
 ii
 ouvert
@@ -2387,6 +2387,7 @@ tombe
 trots
 vaisselle
 verder
+##be
 allein
 blik
 breakfast
@@ -2426,8 +2427,6 @@ pret
 repondu
 smoking
 vis
-##ique
-##ras
 ##sten
 ##tte
 aviez
@@ -2444,6 +2443,7 @@ umbrella
 voz
 zoveel
 ##il
+##ique
 achter
 brief
 enjoy
@@ -2454,6 +2454,7 @@ queste
 weit
 worked
 ##mmo
+##ras
 bar
 cauchemars
 comprendre
@@ -2488,7 +2489,6 @@ jupiter
 onskan
 opened
 stimme
-##iga
 ##nza
 af
 course
@@ -2509,7 +2509,6 @@ verkade
 volonte
 vroeg
 zult
-##be
 ##ura
 annee
 boire
@@ -2537,6 +2536,7 @@ vino
 ##ate
 ##lle
 ##rsi
+##um
 fueron
 ger
 gladje
@@ -2550,6 +2550,7 @@ troppo
 vive
 welke
 ##chen
+##iga
 ##ze
 antwortete
 blir
@@ -2567,7 +2568,6 @@ wilt
 zeker
 ##ban
 ##ry
-##um
 alive
 antwoordde
 corpo
@@ -2594,7 +2594,6 @@ close
 etudie
 hel
 ins
-lijkt
 mayor
 podia
 seven
@@ -2609,6 +2608,7 @@ younger
 dante
 engel
 intention
+lijkt
 lite
 mannen
 nostra
@@ -2621,7 +2621,6 @@ wirklich
 zoo
 ##eren
 ##ieren
-##ies
 ##zza
 acqua
 aimez
@@ -2629,7 +2628,6 @@ common
 hause
 hela
 intelligent
-kyoto
 leute
 mira
 nei
@@ -2637,12 +2635,14 @@ past
 possa
 rivier
 uncle
+##ies
 annat
 baseball
 correct
 elk
 envie
 grave
+kyoto
 lasst
 lichaam
 oude
@@ -2651,15 +2651,15 @@ runt
 spirit
 sta
 towards
-trust
 tut
-##ity
 ##ls
 ##zioni
 ansikte
 blood
+compris
 court
 ende
+enfant
 fallen
 hubiera
 parlare
@@ -2667,7 +2667,9 @@ parlez
 power
 sight
 tea
+trust
 voici
+##ity
 ##rse
 ##zo
 avions
@@ -2675,11 +2677,9 @@ bleiben
 bras
 cara
 comenzo
-compris
 cuenta
 dalle
 denkt
-enfant
 gehort
 news
 stupid
@@ -2751,8 +2751,8 @@ spoke
 understood
 vinden
 vreugde
+##era
 ##iert
-##igt
 boden
 demander
 essayer
@@ -2768,7 +2768,6 @@ pouvais
 rencontre
 returned
 rouge
-##era
 ##liche
 ##rai
 aurais
@@ -2805,6 +2804,7 @@ waarheid
 ##cio
 ##lt
 above
+aire
 alegria
 avevo
 buena
@@ -2821,7 +2821,6 @@ puisse
 voce
 voy
 ##erd
-aire
 attraverso
 blind
 boven
@@ -2852,6 +2851,7 @@ doubt
 guten
 intellect
 lose
+mur
 noticed
 sembrava
 serious
@@ -2859,6 +2859,7 @@ stars
 steg
 ty
 ##ation
+##igt
 amigo
 asleep
 battre
@@ -2874,7 +2875,6 @@ guerre
 haber
 kill
 llama
-mur
 presence
 showed
 sprache
@@ -2893,6 +2893,7 @@ created
 ene
 escaliers
 facile
+freund
 gold
 incluso
 leer
@@ -2909,7 +2910,7 @@ ander
 contro
 deep
 dezelfde
-freund
+enjoyed
 gift
 grosser
 klaar
@@ -2932,7 +2933,6 @@ beter
 camera
 conduit
 droit
-enjoyed
 facon
 feliz
 femmes
@@ -2944,7 +2944,6 @@ gudomliga
 herz
 hjarta
 holle
-kennen
 nahe
 ninguna
 paid
@@ -2953,6 +2952,7 @@ precis
 religion
 teil
 ustedes
+##di
 ##ging
 ##rio
 ##rmi
@@ -2966,11 +2966,11 @@ habla
 horde
 indem
 ira
+kennen
 likely
 mars
 pousse
 ##ful
-##ive
 arriba
 baby
 bada
@@ -2995,6 +2995,7 @@ unser
 volta
 weiter
 yes
+##ive
 alas
 arbres
 celle
@@ -3016,6 +3017,7 @@ maybe
 midi
 offer
 presente
+proche
 road
 sordello
 therefore
@@ -3033,12 +3035,11 @@ mindre
 mois
 persone
 photos
-proche
 seeing
 sett
 smoke
 tochter
-##ere
+##ens
 beer
 bringen
 cose
@@ -3055,7 +3056,6 @@ peace
 peter
 propre
 purpose
-reach
 region
 snabbt
 tro
@@ -3064,7 +3064,6 @@ wear
 wees
 welche
 wise
-##ens
 devons
 doch
 dormi
@@ -3081,8 +3080,8 @@ oud
 oui
 places
 plaisir
+reach
 report
-snow
 soyez
 tandis
 tel
@@ -3111,9 +3110,10 @@ puerta
 schaute
 schule
 siete
+snow
 universe
 varit
-##ien
+##ere
 ##ner
 arno
 bereits
@@ -3156,7 +3156,6 @@ passed
 pouvait
 run
 weniger
-##di
 ##ront
 ##ven
 allowed
@@ -3218,14 +3217,12 @@ pueden
 sidan
 sinne
 ##ll
-accepte
 bill
 couple
 eens
 eigen
 figlio
 forward
-gern
 giorno
 gnade
 however
@@ -3241,12 +3238,15 @@ shall
 singing
 tenemos
 thanks
+veulent
 ##ee
 ##igkeit
+accepte
 actually
 amie
 cinema
 england
+gern
 halten
 hunger
 journal
@@ -3263,7 +3263,6 @@ suivre
 tomber
 utiliser
 vertu
-veulent
 walked
 ##he
 ##rlo
@@ -3277,6 +3276,7 @@ girls
 grandi
 hinter
 importante
+koffie
 malabocia
 paura
 praten
@@ -3298,6 +3298,7 @@ countries
 davon
 dolore
 estado
+excuse
 finche
 flower
 getroffen
@@ -3306,7 +3307,6 @@ hablo
 inferno
 interessant
 klein
-koffie
 montrer
 nessuno
 rendu
@@ -3315,6 +3315,7 @@ silence
 spirito
 virtud
 volvio
+##ien
 aunque
 berber
 broken
@@ -3326,7 +3327,6 @@ dank
 dernier
 ensemble
 europa
-excuse
 existence
 fly
 hombres
@@ -3369,6 +3369,7 @@ begin
 cadeau
 dazu
 detras
+devrait
 expression
 forme
 forza
@@ -3377,6 +3378,7 @@ gedanken
 gefallt
 halla
 heller
+jeu
 kleine
 lever
 manque
@@ -3394,13 +3396,11 @@ zeer
 ##w
 abajo
 advised
-devrait
 ganz
 genau
 guia
 helpen
 history
-jeu
 meister
 nourriture
 ormai
@@ -3435,7 +3435,6 @@ avere
 bread
 bu
 chercher
-covered
 details
 dogs
 green
@@ -3461,6 +3460,7 @@ asking
 band
 bewegen
 bron
+covered
 crime
 crying
 deel
@@ -3545,6 +3545,7 @@ support
 tanta
 woon
 ##erna
+##ld
 ##ran
 anderes
 arte
@@ -3564,7 +3565,6 @@ steht
 suelo
 ##end
 ##hen
-##ld
 ##ous
 control
 dejeuner
@@ -3575,6 +3575,7 @@ genug
 glad
 gracia
 heureuse
+kaffee
 minimum
 pie
 plein
@@ -3605,7 +3606,6 @@ essaye
 fit
 ganzen
 interieur
-kaffee
 list
 medicine
 qualcosa
@@ -3686,12 +3686,12 @@ seines
 spoken
 storre
 throw
+vaak
 waste
 watched
 worten
 zouden
 ##ces
-##ito
 ##nd
 000
 arrives
@@ -3700,7 +3700,6 @@ castigo
 darauf
 delante
 enige
-entire
 folgen
 following
 freunde
@@ -3709,7 +3708,6 @@ holl
 karleken
 kitchen
 mauvaise
-moge
 nouvelles
 ognuno
 pad
@@ -3721,7 +3719,6 @@ raised
 rond
 schwer
 totdat
-vaak
 voller
 volto
 ##0
@@ -3733,6 +3730,7 @@ appeared
 cher
 eigenen
 eleve
+entire
 gedachten
 grandmother
 greater
@@ -3740,6 +3738,7 @@ haller
 heavy
 historia
 laver
+moge
 ordinateur
 perhaps
 pont
@@ -3768,12 +3767,14 @@ doux
 etat
 faisaient
 ferai
+flor
 foi
 gekauft
 geschichte
 guter
 helt
 hurt
+inget
 innocent
 jedes
 lave
@@ -3798,10 +3799,8 @@ beyond
 bucher
 dare
 essi
-flor
 garcon
 heer
-inget
 lucky
 lune
 mostro
@@ -3811,13 +3810,11 @@ running
 sembra
 senor
 taught
-type
 violence
 wusste
 zee
 ##ds
 ##erde
-##ico
 ##led
 arrested
 certainly
@@ -3836,8 +3833,10 @@ selon
 shopping
 strength
 third
+type
 vertellen
 viande
+##ito
 ##nis
 action
 alibi
@@ -3867,6 +3866,7 @@ vergessen
 verschillende
 zeigen
 ##bare
+##ico
 ##ino
 ##lijke
 ##pt
@@ -4030,9 +4030,7 @@ advantage
 agree
 ailes
 anger
-apologize
 bright
-broer
 clearly
 dessen
 devenu
@@ -4061,6 +4059,7 @@ surprise
 ##rait
 admitted
 anybody
+apologize
 ayer
 believed
 beni
@@ -4068,6 +4067,7 @@ bob
 boys
 break
 brille
+broer
 chaud
 committed
 dagen
@@ -4158,7 +4158,6 @@ strafe
 vostra
 wert
 ##dor
-##ete
 ##llo
 ##schen
 ##ses
@@ -4200,6 +4199,7 @@ surface
 universo
 unten
 ##age
+##ete
 ##ise
 ##jo
 ##nas
@@ -4242,7 +4242,6 @@ vart
 vole
 ##em
 ##jes
-##rat
 bear
 bord
 couleur
@@ -4312,6 +4311,7 @@ vieille
 ##ica
 ##ingen
 ##ments
+##rat
 address
 alter
 ante
@@ -4343,6 +4343,7 @@ manner
 million
 oscuro
 pale
+raciste
 rarement
 russian
 sandwich
@@ -4381,7 +4382,6 @@ peuple
 prends
 prochain
 projet
-raciste
 repondit
 rule
 sache
@@ -4391,6 +4391,7 @@ unico
 uomini
 wohnt
 zonde
+##ger
 ##gna
 ##ks
 ##ring
@@ -4438,6 +4439,7 @@ visar
 weder
 ##ivo
 ##op
+##ques
 ##tas
 ##tie
 abandoned
@@ -4464,6 +4466,7 @@ ignore
 langsam
 mojligt
 opportunity
+parc
 presto
 principio
 reich
@@ -4479,6 +4482,7 @@ system
 tomar
 tuttavia
 understanding
+vivent
 volgen
 warst
 weinen
@@ -4512,7 +4516,6 @@ nombreux
 nuestros
 origine
 painting
-parc
 pequeno
 perdre
 ponte
@@ -4526,14 +4529,11 @@ verre
 viaje
 viento
 viso
-vivent
 vosotros
 ##cer
 ##gehen
-##ger
 ##id
 ##king
-##ques
 bosen
 considered
 culture
@@ -4728,6 +4728,7 @@ svar
 taal
 view
 visione
+visste
 volk
 wachten
 wendde
@@ -4737,6 +4738,7 @@ zit
 ##ados
 ##ckt
 ##cy
+##om
 ##tet
 aandacht
 admit
@@ -4772,6 +4774,7 @@ nya
 offre
 paye
 perdido
+pourrais
 results
 rice
 rosa
@@ -4785,7 +4788,6 @@ tack
 talade
 tokio
 vanaf
-visste
 waarvan
 zufrieden
 ##6
@@ -4800,6 +4802,7 @@ bosque
 caso
 chine
 cook
+cousin
 direccion
 ervan
 fing
@@ -4818,7 +4821,6 @@ mirror
 penses
 possibile
 posto
-pourrais
 puente
 refuse
 rend
@@ -4831,13 +4833,11 @@ sterben
 succes
 tante
 vallen
-##om
 aufmerksamkeit
 aussehen
 benen
 blumen
 borrowed
-cousin
 dehors
 eight
 existe
@@ -4846,6 +4846,7 @@ fier
 folja
 gewicht
 gisteren
+gros
 gustan
 higher
 hoger
@@ -4910,7 +4911,6 @@ flores
 forced
 fra
 frances
-gros
 impression
 jealous
 jean
@@ -4992,6 +4992,7 @@ whoever
 worth
 ##9
 ##ntes
+##rie
 ##sion
 ##tare
 atteint
@@ -5039,7 +5040,6 @@ zuvor
 ##nie
 ##pi
 ##rd
-##rie
 adorent
 ange
 arrivee
@@ -5048,7 +5048,6 @@ belleza
 bleibt
 blut
 brauchen
-bueno
 buying
 cesse
 count
@@ -5099,15 +5098,14 @@ vento
 volver
 woche
 zorgen
-##iger
 ##lais
 ##nda
-##per
 attends
 avessi
 ball
 boog
 brillantes
+bueno
 buona
 cammino
 cependant
@@ -5148,10 +5146,11 @@ valeur
 volgende
 worthy
 ##ans
+##bles
 ##gue
 ##imo
-##kel
 ##ln
+##per
 ##red
 ##rla
 ##sais
@@ -5213,8 +5212,8 @@ verbaasd
 vingt
 waardoor
 wohne
-##bles
 ##ini
+##kel
 ##po
 ##tive
 ##uta
@@ -5274,6 +5273,7 @@ wijsheid
 woods
 ##amente
 ##ible
+##iger
 ##mer
 ##ms
 ##sait
@@ -5399,6 +5399,7 @@ surrounded
 tittar
 unique
 unseren
+verruckt
 video
 vollig
 ##acion
@@ -5458,7 +5459,6 @@ stehen
 ster
 symbol
 taste
-verruckt
 vijf
 vlam
 vorher
@@ -5804,7 +5804,6 @@ quienes
 raum
 realidad
 regardant
-replied
 reussi
 rey
 rorde
@@ -5898,6 +5897,7 @@ pray
 professor
 promesse
 receive
+replied
 robe
 roof
 sacred
@@ -5992,7 +5992,6 @@ verdient
 virus
 wurdest
 ##ded
-##ei
 ##eten
 ##eur
 ##kade
@@ -6065,11 +6064,12 @@ wonen
 zoek
 ##ance
 ##au
+##ber
+##cas
 ##dde
 ##det
 ##dia
 ##ek
-##ieron
 ##miento
 ##ningen
 ##nno
@@ -6146,7 +6146,7 @@ wondered
 wrapped
 zul
 ##adas
-##cas
+##ei
 ##else
 ##nato
 aanwezig
@@ -6161,6 +6161,7 @@ avenir
 banjo
 bekommen
 bereikt
+bodem
 borta
 chiunque
 cola
@@ -6233,7 +6234,6 @@ voyager
 wikipedia
 ##8
 ##ard
-##ber
 ##dig
 ##glio
 ##heten
@@ -6247,7 +6247,6 @@ angekommen
 anywhere
 ashamed
 begrijp
-bodem
 boit
 brown
 capo
@@ -6328,6 +6327,7 @@ valise
 vanster
 various
 vendre
+verlegen
 vuoi
 ways
 wit
@@ -6425,7 +6425,6 @@ timore
 tony
 tormento
 uppmarksamhet
-verlegen
 vlammen
 volgde
 wald
@@ -6435,13 +6434,14 @@ zeide
 ##care
 ##cke
 ##ente
+##eron
 ##fen
+##ieron
 ##lant
 ##nait
 ##sero
 ##tura
 ##via
-##zeit
 amable
 andern
 arbeitet
@@ -6517,6 +6517,7 @@ vivant
 vore
 wahl
 wash
+wichtig
 ##glia
 ##heden
 ##ima
@@ -6524,6 +6525,7 @@ wash
 ##one
 ##ul
 ##zado
+##zeit
 adelante
 affaires
 album
@@ -6609,9 +6611,7 @@ vanuit
 varken
 veranderde
 vertrouwen
-wichtig
 ##bringen
-##iera
 ##ities
 ##ster
 ##tado
@@ -6700,6 +6700,7 @@ proteger
 quality
 reasons
 regalo
+retourner
 rook
 salio
 sangen
@@ -6733,6 +6734,8 @@ windows
 ##eerd
 ##gaan
 ##geht
+##gia
+##iera
 ##kant
 ##lassen
 ##lighet
@@ -6811,7 +6814,6 @@ leder
 leidt
 listo
 llamo
-longue
 mahjong
 monat
 murs
@@ -6825,7 +6827,6 @@ promotion
 rate
 ray
 responsibility
-retourner
 satte
 schlecht
 signifie
@@ -6846,10 +6847,8 @@ voelen
 vuelto
 ##bel
 ##bia
-##eron
 ##fa
 ##itat
-##ium
 ##jd
 ##md
 ##ore
@@ -6905,6 +6904,7 @@ johannes
 leader
 livet
 llorando
+longue
 lucca
 maremma
 meisje
@@ -7006,6 +7006,7 @@ harm
 herrn
 insag
 intend
+introduced
 jene
 kids
 lados
@@ -7015,6 +7016,7 @@ liberer
 lucia
 madrid
 mail
+metro
 mets
 minne
 mirar
@@ -7061,6 +7063,7 @@ woke
 ##ele
 ##her
 ##imos
+##ium
 ##lade
 ##lde
 ##lique
@@ -7116,14 +7119,13 @@ huvud
 idees
 instructions
 interrupt
-introduced
 italienne
 kinds
+koud
 ledde
 located
 machst
 mastare
-metro
 mitte
 mixed
 nacio
@@ -7171,7 +7173,6 @@ zagen
 ##del
 ##ets
 ##ione
-##isse
 ##lado
 ##lot
 ##ndose
@@ -7220,7 +7221,6 @@ harder
 hattest
 hogsta
 inga
-koud
 kun
 lascia
 liste
@@ -7270,7 +7270,6 @@ zus
 ##erte
 ##fahren
 ##ged
-##gia
 ##hnt
 ##ical
 ##ich
@@ -7484,7 +7483,6 @@ passare
 passport
 patience
 peint
-poesie
 pope
 poste
 presencia
@@ -7525,6 +7523,7 @@ zahlen
 ##ened
 ##fie
 ##halten
+##isse
 ##loos
 ##ming
 ##pes
@@ -7617,6 +7616,7 @@ pedro
 pflanze
 pire
 pleut
+poesie
 preghiera
 providence
 quattro
@@ -7657,6 +7657,7 @@ zeigt
 ##ccia
 ##ches
 ##cing
+##gung
 ##iche
 ##ioso
 ##ish
@@ -7710,7 +7711,6 @@ espagne
 esperar
 essenza
 eternel
-etrange
 euer
 evigt
 exterior
@@ -7721,6 +7721,7 @@ fil
 forklara
 forlorade
 francisco
+furent
 gebeten
 geschapen
 gloire
@@ -7784,6 +7785,7 @@ schaamte
 schlug
 slang
 smiled
+sonntag
 specchio
 stick
 stjarnor
@@ -7811,7 +7813,6 @@ ziehen
 ##emos
 ##gare
 ##idos
-##isce
 ##lande
 ##ranno
 ##rne
@@ -7839,6 +7840,7 @@ cierto
 circles
 coi
 colle
+colonialiste
 colores
 commande
 contract
@@ -7861,14 +7863,15 @@ endast
 entrambe
 envoyer
 escaped
+etrange
 excited
 exclaimed
+expresion
 falsenbiante
 fatt
 fenster
 florens
 former
-furent
 gambe
 gefuhrt
 gegenuber
@@ -7881,6 +7884,7 @@ hangt
 helvetets
 honeymoon
 host
+humanite
 humano
 impact
 infernal
@@ -7944,7 +7948,6 @@ slapen
 slept
 snakes
 solito
-sonntag
 soup
 speelt
 spitze
@@ -7980,6 +7983,7 @@ zet
 ##ierte
 ##igd
 ##int
+##isce
 ##ize
 ##komen
 ##losen
@@ -8015,7 +8019,6 @@ cantar
 cayo
 clase
 classes
-colonialiste
 creatura
 criatura
 cru
@@ -8034,7 +8037,6 @@ engine
 entro
 etres
 evidente
-expresion
 fanno
 feit
 felicita
@@ -8059,7 +8061,6 @@ habiter
 hallo
 himmelen
 humains
-humanite
 humans
 hunting
 individual
@@ -8147,13 +8148,14 @@ web
 zeiden
 zijt
 ##amos
-##gung
 ##ios
 ##mie
 ##nehmen
 ##ps
 ##reich
 ##rice
+##sce
+##ssais
 ##unen
 ##ures
 ##zed
@@ -8165,7 +8167,6 @@ arretez
 automobile
 avance
 baronia
-basis
 baton
 begreep
 begrepen
@@ -8291,14 +8292,11 @@ zorn
 ##hl
 ##igheid
 ##ighet
-##iques
-##iti
 ##jan
 ##lio
 ##mas
 ##pre
 ##rei
-##sce
 ##tica
 ##tico
 ##und
@@ -8315,6 +8313,7 @@ armar
 armonia
 australien
 austria
+basis
 basket
 beginnt
 begleitet
@@ -8461,6 +8460,7 @@ verlangens
 vientre
 vouloir
 vuestro
+waters
 wicked
 wide
 widerstand
@@ -8481,7 +8481,6 @@ widerstand
 ##quant
 ##rando
 ##sent
-##ssais
 ##uille
 ##uur
 ##ya
@@ -8495,7 +8494,6 @@ araignees
 artiste
 assise
 attempt
-aunt
 auriez
 autumn
 basta
@@ -8546,6 +8544,7 @@ hello
 hicieron
 hog
 hoher
+holding
 ijs
 incident
 intensivt
@@ -8637,7 +8636,6 @@ viendo
 volume
 vuestra
 vus
-waters
 wohl
 writes
 youth
@@ -8647,7 +8645,9 @@ youth
 ##gesteld
 ##iamo
 ##ily
+##iques
 ##isk
+##iti
 ##ition
 ##kommt
 ##komst
@@ -8670,10 +8670,10 @@ advance
 aguila
 alcune
 aleman
-arriva
 assurez
 asunto
 augmente
+aunt
 baja
 beat
 begangen
@@ -8737,7 +8737,6 @@ glory
 gouden
 handerna
 heilig
-holding
 humanity
 hunde
 idioma
@@ -8803,6 +8802,7 @@ stesse
 stjarnorna
 structure
 superiore
+systeme
 tanka
 terreno
 thermometer
@@ -8856,6 +8856,7 @@ alcuni
 apri
 ardente
 argo
+arriva
 arrival
 artikel
 aspekt
@@ -8996,7 +8997,6 @@ sto
 studieren
 suchen
 svartsjuka
-systeme
 tafel
 tempete
 thirst
@@ -9223,6 +9223,7 @@ woher
 ##aar
 ##ain
 ##ea
+##egen
 ##elen
 ##fulla
 ##ggio
@@ -9244,7 +9245,6 @@ woher
 ##tat
 ##zia
 ##zing
-300
 aantal
 abismo
 absolute
@@ -9453,9 +9453,7 @@ zweite
 ##dere
 ##ede
 ##ef
-##egen
 ##elle
-##fer
 ##ffe
 ##gande
 ##ha
@@ -9475,6 +9473,7 @@ zweite
 ##vent
 ##ye
 2013
+300
 accion
 agreement
 alice
@@ -9656,11 +9655,13 @@ zulke
 ##eken
 ##ering
 ##ess
+##fer
 ##fied
 ##gekommen
 ##gono
 ##hort
 ##ils
+##itet
 ##ized
 ##jado
 ##lando
@@ -9874,6 +9875,7 @@ volant
 vorbei
 voyant
 zeggende
+##aan
 ##amt
 ##arlo
 ##art
@@ -9889,7 +9891,6 @@ zeggende
 ##genomen
 ##haft
 ##hrt
-##itet
 ##kam
 ##kers
 ##lichkeit
@@ -9943,6 +9944,7 @@ corrected
 costellazione
 cuya
 demanda
+descendants
 detestent
 devo
 devrions
@@ -9954,7 +9956,6 @@ ecria
 edad
 educated
 einfluss
-erinnert
 escuchando
 espana
 examples
@@ -10132,11 +10133,9 @@ zapatos
 ##gestellt
 ##ghet
 ##hin
-##iens
 ##iers
 ##iet
 ##ieux
-##igung
 ##imento
 ##lli
 ##mar
@@ -10214,7 +10213,6 @@ credi
 cruz
 degree
 deprived
-descendants
 dices
 disturb
 dono
@@ -10229,6 +10227,7 @@ empereur
 entusiasmo
 equally
 erba
+erinnert
 esperance
 established
 excuses
@@ -10414,6 +10413,7 @@ zona
 ##gaat
 ##gos
 ##hes
+##iens
 ##im
 ##ined
 ##iteit
@@ -10566,7 +10566,6 @@ identical
 increased
 inner
 interests
-interview
 islam
 jonge
 joyful
@@ -10852,6 +10851,7 @@ humo
 imbecile
 imperatore
 indignation
+interview
 ipad
 irdischen
 italienisch
@@ -11016,6 +11016,7 @@ ziemlich
 ##giez
 ##glie
 ##hy
+##igung
 ##ijke
 ##ivamente
 ##karna
@@ -11034,6 +11035,7 @@ ziemlich
 ##rnos
 ##rst
 ##rvi
+##sca
 ##sman
 ##tait
 ##tata
@@ -11160,6 +11162,7 @@ homesick
 hubo
 hugel
 ideologie
+indiquer
 insupportable
 intenzione
 istallet
@@ -11298,6 +11301,7 @@ zong
 ##amento
 ##ani
 ##bas
+##bes
 ##cide
 ##cre
 ##dido
@@ -11308,12 +11312,12 @@ zong
 ##genommen
 ##gesetzt
 ##ggi
+##gte
 ##hip
 ##hne
 ##ib
 ##icht
 ##ified
-##igte
 ##ilen
 ##iles
 ##innen
@@ -11444,7 +11448,6 @@ gedachtnis
 gefolgt
 geloofde
 gelukzaligheid
-genieten
 gentilezza
 gesloten
 giungemmo
@@ -11466,7 +11469,6 @@ images
 increasing
 incredible
 indian
-indiquer
 inferior
 intended
 inutile
@@ -11527,7 +11529,6 @@ parlava
 parlons
 passend
 perdida
-periode
 pflanzen
 pirate
 pizzeria
@@ -11634,7 +11635,6 @@ wolves
 worterbuch
 ##ane
 ##ap
-##bes
 ##cina
 ##die
 ##dio
@@ -11665,7 +11665,6 @@ worterbuch
 ##rebbe
 ##ric
 ##sar
-##sca
 ##ssez
 ##sts
 ##tad
@@ -11794,6 +11793,7 @@ gedrag
 geduld
 gehouden
 geniessen
+genieten
 geschafft
 geschiedenis
 gianni
@@ -11852,7 +11852,6 @@ montagnes
 mortales
 mortes
 mosse
-mostrare
 motsatt
 mouse
 muddy
@@ -11874,6 +11873,7 @@ papst
 peloro
 pepper
 perds
+periode
 permiso
 perte
 piangendo
@@ -12001,6 +12001,7 @@ zomer
 ##iden
 ##ifran
 ##igne
+##iten
 ##kent
 ##keren
 ##leden
@@ -12111,6 +12112,7 @@ contain
 converti
 cooperation
 coro
+correctement
 cravates
 creado
 creating
@@ -12230,6 +12232,7 @@ methode
 miracles
 mix
 montaperti
+mostrare
 muestra
 mura
 muro
@@ -12379,7 +12382,6 @@ zeitung
 ziekte
 zijde
 zwart
-##aan
 ##aban
 ##arsi
 ##bracht
@@ -12394,7 +12396,6 @@ zwart
 ##hle
 ##icion
 ##ifie
-##iten
 ##izia
 ##jn
 ##lang
@@ -12495,7 +12496,6 @@ confident
 confirmed
 congratulated
 corazones
-correctement
 cortese
 cour
 cria
@@ -12791,7 +12791,6 @@ zuzuhoren
 ##doen
 ##dora
 ##drar
-##eer
 ##ehen
 ##ekt
 ##ello
@@ -13187,8 +13186,8 @@ traduit
 tranne
 treden
 trost
+troubled
 tumba
-turkey
 turm
 tuyo
 uccello
@@ -13443,8 +13442,8 @@ girighet
 grades
 graset
 grossten
-grossvater
 guardavo
+guardia
 guitton
 habitual
 halfrond
@@ -13657,8 +13656,8 @@ toucher
 tradition
 traducteur
 treu
-troubled
 trunk
+turkey
 twin
 umile
 uvres
@@ -13692,7 +13691,6 @@ weh
 wenst
 wherever
 wreed
-wunschte
 zakken
 zeige
 zeiten
@@ -13700,6 +13698,7 @@ zieht
 zinnen
 zodiac
 zone
+zucker
 zwarte
 ##ang
 ##bilidad
@@ -13966,7 +13965,7 @@ gottlicher
 gradualmente
 gratitude
 griff
-guardia
+grossvater
 habilidades
 hablas
 habra
@@ -14065,6 +14064,7 @@ organic
 orgulloso
 ouder
 ovidio
+palestine
 panna
 passieren
 paven
@@ -14147,7 +14147,6 @@ soudainement
 specific
 squares
 stamps
-statement
 stomach
 straal
 strangers
@@ -14167,6 +14166,7 @@ topic
 trapped
 trennen
 tronco
+trou
 uiteindelijk
 utseendet
 valet
@@ -14198,6 +14198,7 @@ vorsehung
 vostre
 vrees
 vrijheid
+wahlen
 waterloo
 weerspiegeld
 weisen
@@ -14206,11 +14207,11 @@ wirkung
 wohnung
 worn
 wunden
+wunschte
 www
 zahl
 zegen
 zilver
-zucker
 zweige
 ##achtig
 ##anos
@@ -14235,13 +14236,13 @@ zweige
 ##gezet
 ##gge
 ##graph
-##gte
 ##houdt
 ##iato
 ##icia
 ##ienne
 ##ierten
 ##igde
+##igte
 ##inar
 ##ited
 ##jor
@@ -14582,11 +14583,11 @@ paire
 pakte
 palais
 palazzo
-palestine
 palude
 partida
 passt
 pecheur
+peligroso
 perceive
 perform
 permitio
@@ -14665,6 +14666,7 @@ spiritual
 split
 sprich
 stable
+statement
 stilla
 stolt
 storsta
@@ -14703,7 +14705,6 @@ treppe
 triomphe
 trompee
 trotzdem
-trou
 tutt
 twilight
 ubersetzt
@@ -14738,8 +14739,8 @@ voldoende
 volentieri
 voyages
 vuelven
-wahlen
 wartete
+wateren
 weekends
 weisse
 werke
@@ -14761,7 +14762,6 @@ zuhoren
 ##atie
 ##bben
 ##bilite
-##boom
 ##burger
 ##ccare
 ##cciato
@@ -14773,7 +14773,6 @@ zuhoren
 ##ders
 ##digde
 ##ega
-##eit
 ##eus
 ##fect
 ##fi
@@ -14973,7 +14972,6 @@ desirez
 dessine
 developpe
 deviendra
-diamond
 dica
 dieci
 difficolta
@@ -15200,7 +15198,6 @@ participer
 passionate
 patrie
 peanuts
-peligroso
 pensaba
 pequenos
 permitted
@@ -15357,7 +15354,6 @@ visas
 vivido
 voto
 vriendelijke
-wateren
 weep
 wege
 weile
@@ -15444,6 +15440,7 @@ zuster
 ##rten
 ##sable
 ##satz
+##scono
 ##serna
 ##setzt
 ##skt
@@ -15616,6 +15613,7 @@ desayuno
 despierta
 detestez
 detuvo
+diamond
 dichters
 difficiles
 dignite
@@ -16033,6 +16031,7 @@ zwaar
 ##avano
 ##berg
 ##bliche
+##boom
 ##bot
 ##brar
 ##brechen
@@ -16047,6 +16046,7 @@ zwaar
 ##dheid
 ##druck
 ##dung
+##eer
 ##elli
 ##ena
 ##ep
@@ -16074,13 +16074,13 @@ zwaar
 ##ians
 ##iar
 ##iare
-##icas
 ##ife
 ##iges
 ##inais
 ##iness
 ##irent
 ##isiert
+##iter
 ##ization
 ##izzato
 ##jarse
@@ -16124,7 +16124,6 @@ zwaar
 ##samhet
 ##sante
 ##schriften
-##scono
 ##stal
 ##sy
 ##taient
@@ -16295,6 +16294,7 @@ disney
 disposizione
 dissatisfied
 dolcemente
+doljer
 dolorosa
 donated
 douleurs
@@ -16729,6 +16729,7 @@ zweimal
 ##brengen
 ##bri
 ##bruder
+##camente
 ##cee
 ##cero
 ##chas
@@ -16746,6 +16747,7 @@ zweimal
 ##dringen
 ##durre
 ##eht
+##eit
 ##elles
 ##emen
 ##emo
@@ -16765,6 +16767,7 @@ zweimal
 ##hme
 ##ho
 ##iata
+##icas
 ##iete
 ##igheter
 ##inas
@@ -17025,7 +17028,6 @@ divini
 doigt
 dolcezza
 dolja
-doljer
 domda
 domestic
 donnera
@@ -17407,6 +17409,7 @@ sortait
 soucie
 sounded
 souveran
+spear
 spite
 splendide
 spoedig
@@ -17535,7 +17538,6 @@ zware
 ##bro
 ##bten
 ##cait
-##camente
 ##ceva
 ##chant
 ##chaut
@@ -17578,7 +17580,6 @@ zware
 ##irse
 ##ishes
 ##istas
-##iter
 ##iza
 ##izo
 ##jar
@@ -17656,7 +17657,6 @@ zware
 ##ssions
 ##stel
 ##stellung
-##style
 ##tante
 ##tate
 ##tch
@@ -17715,7 +17715,6 @@ alimentos
 allah
 alleine
 altrui
-amerikaner
 andato
 andrar
 andrea
@@ -18276,7 +18275,6 @@ sorprende
 sorties
 sostiene
 soviet
-spear
 spectateurs
 speeding
 spinto
@@ -18331,7 +18329,6 @@ twisted
 tystnad
 ubel
 uberwinden
-udire
 umane
 umbral
 umgab
@@ -18439,8 +18436,8 @@ zweifellos
 ##elte
 ##enne
 ##erre
+##erst
 ##esimo
-##eta
 ##ettre
 ##ferencia
 ##fice
@@ -18556,6 +18553,7 @@ zweifellos
 ##stes
 ##stijgt
 ##stond
+##style
 ##tande
 ##tati
 ##tegen
@@ -18566,6 +18564,7 @@ zweifellos
 ##ttern
 ##ubt
 ##udo
+##uez
 ##uhn
 ##uild
 ##uilles
@@ -18645,6 +18644,7 @@ almosen
 alti
 alza
 ameliorer
+amerikaner
 amici
 amistad
 amusait
@@ -18802,6 +18802,7 @@ distributed
 disturbing
 divinos
 divins
+divisee
 doble
 domande
 domenico
@@ -19111,7 +19112,6 @@ oroa
 orsaka
 osservai
 oudere
-oudste
 overgav
 overwegen
 oxford
@@ -19204,7 +19204,6 @@ rotta
 rubicante
 sabor
 sack
-sacree
 sagradas
 saignait
 sakerhet
@@ -19322,6 +19321,7 @@ tvingade
 tyvarr
 ubersetzung
 ucciso
+udire
 ugly
 uitgelegd
 uitgesproken
@@ -19450,8 +19450,8 @@ zwillinge
 ##ellas
 ##ellt
 ##erende
-##erst
 ##esto
+##eta
 ##etais
 ##euses
 ##fard
@@ -19577,7 +19577,6 @@ zwillinge
 ##uchte
 ##uela
 ##ueuse
-##uez
 ##ugt
 ##uh
 ##uisce
@@ -19808,7 +19807,6 @@ dimostrare
 dioses
 divento
 divides
-divisee
 doodde
 dorment
 dovresti
@@ -20132,6 +20130,7 @@ oriental
 orillas
 osservavo
 otono
+oudste
 overtraffade
 overvaldigad
 overvinner
@@ -20264,6 +20263,7 @@ rumor
 russes
 rykte
 sabado
+sacree
 saken
 sakra
 salomo
@@ -20683,7 +20683,6 @@ zweeg
 ##torio
 ##treden
 ##trekken
-##tribue
 ##tted
 ##uable
 ##ualmente
@@ -22041,7 +22040,6 @@ zweigen
 ##bria
 ##card
 ##carus
-##cchio
 ##ceda
 ##cement
 ##cendo
@@ -22121,17 +22119,14 @@ zweigen
 ##hon
 ##honderd
 ##horen
-##iaan
 ##ices
 ##ience
 ##ieuze
 ##igenia
-##igia
 ##imenti
 ##inee
 ##ining
 ##irrt
-##isca
 ##isen
 ##ished
 ##ising
@@ -22275,6 +22270,7 @@ zweigen
 ##tisch
 ##trade
 ##trare
+##tribue
 ##tur
 ##uato
 ##uette
@@ -22369,7 +22365,6 @@ ambiente
 ampio
 ancor
 andliga
-angela
 angolo
 anhangare
 anhanger
@@ -23358,7 +23353,6 @@ surrender
 suspects
 svarta
 sweat
-swimmer
 synlig
 tacco
 tackta
@@ -23547,6 +23541,7 @@ zwanzig
 ##cati
 ##cava
 ##ccata
+##cchio
 ##ceduto
 ##censo
 ##cesa
@@ -23652,7 +23647,6 @@ zwanzig
 ##iel
 ##iendose
 ##ienen
-##ierst
 ##igate
 ##ii
 ##ije
@@ -23969,6 +23963,7 @@ ammonia
 amorosa
 ananias
 anassagoras
+angela
 angeliques
 angio
 angiolello
@@ -24311,6 +24306,7 @@ entusiasm
 entweder
 envahi
 epaule
+epousa
 epuise
 ere
 erfgenamen
@@ -24905,7 +24901,6 @@ religione
 religions
 remords
 remplie
-rendrai
 renew
 repariez
 requiere
@@ -25079,6 +25074,7 @@ svag
 svani
 svarar
 svardet
+swimmer
 swore
 symbolen
 szene
@@ -25091,6 +25087,7 @@ technical
 telefonleitung
 teller
 temas
+temoin
 temperatures
 templo
 tenaient
@@ -25427,6 +25424,7 @@ zweck
 ##ieme
 ##iento
 ##ierde
+##ierst
 ##ievable
 ##ifica
 ##igkeiten
@@ -25445,6 +25443,7 @@ zweck
 ##irant
 ##iron
 ##isait
+##isca
 ##isco
 ##isent
 ##itent
@@ -25498,7 +25497,6 @@ zweck
 ##loeit
 ##lore
 ##lskade
-##lurred
 ##lutet
 ##lzen
 ##made
@@ -25892,7 +25890,6 @@ benessere
 benutzte
 bereut
 bergers
-beroemde
 beschadigt
 beschreven
 beschweren
@@ -26106,7 +26103,6 @@ dolente
 dolt
 donatus
 donnait
-doorgaan
 dop
 doubtful
 drauf
@@ -26160,7 +26156,6 @@ entschuldige
 enviado
 epaisse
 ephemeral
-epousa
 erduldet
 erfullte
 erge
@@ -26525,6 +26520,7 @@ limousine
 limpio
 linjen
 liquide
+lisons
 listed
 literal
 llevaban
@@ -26795,6 +26791,7 @@ remos
 remplir
 remplis
 rencontree
+rendrai
 repandue
 reparar
 reparent
@@ -27010,7 +27007,6 @@ taverne
 teenagers
 teilnehmen
 teilt
-temoin
 temperament
 tempio
 tende
@@ -27417,8 +27413,6 @@ zweifeln
 ##irement
 ##iria
 ##irra
-##iscono
-##issais
 ##itch
 ##itore
 ##itude
@@ -27473,6 +27467,7 @@ zweifeln
 ##lozen
 ##lucht
 ##luiten
+##lurred
 ##luten
 ##manar
 ##mang
@@ -27801,7 +27796,6 @@ abiertas
 abondante
 absalom
 absentes
-absorbe
 abstand
 acabado
 accadere
@@ -27985,6 +27979,7 @@ beordrade
 berattat
 berechnung
 bereue
+beroemde
 berom
 beror
 beschuldigt
@@ -28294,6 +28289,7 @@ domer
 dominio
 donato
 doordringt
+doorgaan
 doorheen
 dorp
 dover
@@ -28701,7 +28697,6 @@ klarer
 klim
 klimaat
 klok
-km
 knock
 koch
 koche
@@ -28766,7 +28761,6 @@ lik
 likewise
 lip
 liquido
-lisons
 literally
 location
 lodi
@@ -29277,7 +29271,6 @@ spiegelt
 spinsero
 spirale
 splendenti
-splendid
 spoor
 sposo
 spotted

@@ -162,8 +162,8 @@ vi
 detto
 dei
 cui
-casa
 due
+casa
 ancora
 cio
 lor
@@ -334,8 +334,8 @@ amico
 degli
 allor
 avere
-alcun
 quasi
+alcun
 faccia
 uomo
 stanno
@@ -359,8 +359,8 @@ pensa
 quell
 persona
 dolce
-quelle
 forse
+quelle
 convien
 loco
 quivi
@@ -416,8 +416,8 @@ grado
 sulla
 rispuose
 felice
-assai
 piano
+assai
 sai
 presto
 comincio
@@ -437,8 +437,8 @@ fia
 men
 par
 ttu
-voleva
 piacere
+voleva
 imparare
 sera
 eran
@@ -450,8 +450,8 @@ male
 parola
 qualche
 mezzo
-sola
 genitori
+sola
 que
 venire
 foco
@@ -495,8 +495,8 @@ domanda
 ei
 state
 mattina
-maggior
 fratello
+maggior
 ##va
 studiare
 fino
@@ -519,8 +519,8 @@ viene
 insieme
 tatoeba
 vede
-sangue
 ragazza
+sangue
 amo
 consiglio
 giovane
@@ -557,8 +557,8 @@ co
 figlia
 vanno
 omai
-storia
 tue
+storia
 risposta
 vien
 vivere
@@ -584,11 +584,11 @@ dicendo
 alta
 segno
 ##mo
-quali
 successo
 comprare
 disio
 fame
+quali
 stai
 camera
 cinque
@@ -626,8 +626,8 @@ forza
 presso
 tardi
 biblioteca
-parlando
 trovato
+parlando
 ##ndo
 dovrebbe
 voler
@@ -639,8 +639,8 @@ computer
 etterno
 migliore
 importante
-legge
 vide
+legge
 dovuto
 bello
 piacciono
@@ -666,8 +666,8 @@ grazie
 cristo
 fatta
 sentito
-venuto
 petto
+venuto
 anime
 vento
 sette
@@ -706,8 +706,8 @@ odio
 telefono
 scrivere
 bere
-uomini
 fummo
+uomini
 intenzione
 problemi
 ##a
@@ -729,9 +729,9 @@ genti
 nonn
 avra
 giocare
-ciascuna
 facendo
 volete
+ciascuna
 pane
 anzi
 canto
@@ -749,9 +749,9 @@ fortuna
 nei
 scorso
 vado
+possono
 ristorante
 sete
-possono
 ama
 luogo
 salute
@@ -767,10 +767,10 @@ prossimo
 vino
 appresso
 molta
-parve
 uon
 denti
 dormire
+parve
 bianco
 gioco
 ##le
@@ -789,8 +789,8 @@ riso
 ov
 parlato
 contro
-chiesa
 lascia
+chiesa
 viaggio
 bisogna
 facile
@@ -824,8 +824,8 @@ mare
 roma
 sonno
 dica
-soltanto
 caso
+soltanto
 grido
 giuso
 stazione
@@ -846,11 +846,11 @@ braccia
 dritto
 saro
 automobile
-ivi
 riesce
 ognie
 prossima
 stella
+ivi
 potesse
 re
 luna
@@ -872,13 +872,13 @@ cagion
 deciso
 facea
 pensier
+san
 sed
 lontano
 raggio
-san
 scorsa
-spero
 piena
+spero
 accordo
 corso
 davanti
@@ -909,9 +909,9 @@ estate
 legno
 ##ne
 ombre
-tradurre
 partita
 pioggia
+tradurre
 crede
 guardare
 lascio
@@ -921,11 +921,11 @@ eta
 preferito
 saranno
 costui
+amiche
 cotanto
 mala
 vuo
 ##ri
-amiche
 qualunque
 ufficio
 diversi
@@ -950,6 +950,7 @@ dicono
 ira
 ##ni
 aperta
+dicea
 fora
 guisa
 lle
@@ -957,7 +958,6 @@ move
 spirto
 tuttor
 ve
-dicea
 diro
 morire
 caro
@@ -1008,14 +1008,14 @@ dovresti
 errori
 ##si
 tratto
+fumare
 negozio
 regalo
-fumare
 fur
+giente
 meco
 ripa
 faccio
-giente
 ##rono
 volere
 ##nno
@@ -1072,19 +1072,19 @@ tokyo
 ##rsi
 alcuni
 animali
-classe
 dolente
 pesce
 chiese
 ciaschedun
+classe
 diletto
 ell
 montagna
+virtute
 aspetta
 dura
 sembrava
 veloce
-virtute
 fra
 ##n
 piuttosto
@@ -1172,11 +1172,11 @@ rosso
 alberi
 carro
 muro
+torna
 antica
 piangere
 pianto
 piatti
-torna
 argomento
 dispiace
 stavo
@@ -1231,10 +1231,10 @@ fiore
 cade
 cinema
 cortese
+gola
 ami
 completamente
 core
-gola
 nelle
 pochi
 poter
@@ -1246,16 +1246,16 @@ aperse
 colpo
 dintorno
 inizio
+maraviglia
 novella
 perdere
 quai
+rota
 venuta
 ciascuno
 conosciuto
 cucina
-maraviglia
 mettere
-rota
 trovo
 cominciato
 dovrei
@@ -1293,10 +1293,10 @@ lasso
 ritorno
 segnor
 serve
+udir
 venimmo
 poveri
 torre
-udir
 dizionario
 mostro
 potuto
@@ -1317,6 +1317,7 @@ croce
 degno
 chiavi
 farai
+basta
 giornata
 saper
 coda
@@ -1324,11 +1325,10 @@ fate
 sbagliato
 ##nti
 ##s
-basta
-dritta
 interessato
 roba
 sito
+dritta
 lieta
 pelle
 ##rti
@@ -1339,10 +1339,10 @@ mori
 mortal
 parer
 tornar
-tti
 veduta
 compagnia
 comune
+tti
 frutto
 mangio
 semplice
@@ -1384,12 +1384,12 @@ corse
 eravate
 governo
 intelligente
-spagnolo
 cina
 fo
 mesi
 restare
 risposto
+spagnolo
 alti
 avante
 bevuto
@@ -1406,9 +1406,9 @@ vechia
 vergognia
 campagna
 gradi
+penne
 progetto
 guardi
-penne
 stesse
 ##r
 pietro
@@ -1416,16 +1416,16 @@ propria
 visitato
 appartamento
 carta
+giunto
 linda
 ##mmo
 esce
 giornale
-giunto
 stavano
 arrivo
 chitarra
-rende
 leva
+rende
 selva
 capito
 piccola
@@ -1492,11 +1492,11 @@ tv
 vengo
 arriva
 gira
+lago
 onore
 profondo
 rapporto
 bianca
-lago
 mezza
 perfetto
 ragazzi
@@ -1532,12 +1532,12 @@ priego
 puose
 scatola
 schiera
+sovr
 spira
 spiriti
 tema
 ##zioni
 aprire
-sovr
 cambiare
 campo
 diventa
@@ -1549,13 +1549,13 @@ leggi
 ricorda
 rumore
 arrivare
+beve
 cieco
 dipinto
 immediatamente
 medico
 nacque
 note
-beve
 cavallo
 ferma
 venendo
@@ -1572,8 +1572,8 @@ provare
 venni
 volti
 corto
-borsa
 chiedere
+borsa
 braccio
 canta
 disposto
@@ -1609,6 +1609,7 @@ riguardar
 scoglio
 seco
 sembiante
+sospiri
 sposa
 ssi
 tristo
@@ -1618,7 +1619,6 @@ destro
 informazioni
 pronte
 ratto
-sospiri
 tenne
 traduzione
 vicina
@@ -1649,10 +1649,10 @@ mela
 metti
 tolse
 vacanze
-aria
 dormito
 scorta
 sermone
+aria
 avvocato
 capisce
 continuo
@@ -1676,6 +1676,7 @@ prender
 prestito
 squadra
 chu
+ciglia
 dovremmo
 giace
 giusta
@@ -1684,7 +1685,6 @@ senno
 vano
 volevano
 accende
-ciglia
 latino
 manca
 rispetto
@@ -1692,6 +1692,7 @@ tira
 viver
 voto
 anco
+avro
 dovea
 favella
 femina
@@ -1702,6 +1703,7 @@ fuoro
 llei
 molt
 percosse
+poria
 quantunque
 sagio
 sasso
@@ -1711,15 +1713,14 @@ sse
 udire
 volge
 ##rlo
-avro
 effetto
 paia
-poria
 rio
 sorpresa
 breve
 otto
 papa
+rubato
 spagna
 stupido
 testo
@@ -1729,7 +1730,6 @@ buone
 cattivo
 leggendo
 pura
-rubato
 vacanza
 alte
 baseball
@@ -1753,8 +1753,8 @@ conforto
 duramente
 fidanzata
 intero
-passa
 lavorando
+passa
 quarto
 radio
 sguardo
@@ -1772,6 +1772,7 @@ fotografica
 guardato
 layla
 motto
+prime
 ragazze
 sacco
 smettere
@@ -1784,16 +1785,15 @@ differenza
 dovreste
 fori
 grosso
+guai
 lungi
 nullo
 pagare
-prime
 profonda
 talvolta
 trenta
 uova
 beati
-guai
 isola
 messaggio
 riguarda
@@ -1815,6 +1815,7 @@ avean
 cadde
 ccio
 compagni
+convenne
 ebe
 falsenbiante
 fero
@@ -1830,14 +1831,13 @@ salir
 sarebe
 smesso
 trovar
+case
 entrata
 finche
 guardia
 halloween
 regole
-case
 contenta
-convenne
 decisione
 paio
 zoo
@@ -1858,7 +1858,6 @@ nemmeno
 scoperto
 chicago
 meta
-pagato
 rapidamente
 spazio
 terribile
@@ -1873,6 +1872,7 @@ incontro
 mostri
 novelle
 opere
+pagato
 piede
 rimane
 riuscito
@@ -1937,7 +1937,6 @@ pianger
 pianoforte
 posson
 senbiante
-sien
 sofferse
 solea
 sulle
@@ -1950,6 +1949,7 @@ chiara
 migliori
 salire
 seguire
+sien
 tempesta
 30
 argento
@@ -1988,18 +1988,18 @@ corona
 fatte
 innamorato
 notizia
+parlate
 assolutamente
-conosci
 forti
 lega
 metta
 mosso
-parlate
 pranzo
 scrisse
 vetro
 amante
 bevo
+conosci
 corpi
 coscienza
 finalmente
@@ -2047,6 +2047,7 @@ cominciar
 davante
 dimanda
 dimando
+dolenti
 drizza
 duol
 fei
@@ -2064,6 +2065,7 @@ nasconde
 ntorno
 odia
 parean
+provedenza
 queta
 quinto
 render
@@ -2083,13 +2085,11 @@ venga
 ventre
 volger
 vorresti
-dolenti
-provedenza
 riparare
 spento
+tuttavia
 cesare
 onesto
-tuttavia
 vertigini
 biglietto
 costoso
@@ -2112,11 +2112,11 @@ lasci
 preparare
 russia
 tempi
+vicini
 potere
 saggio
 venisse
 verdi
-vicini
 visita
 camminare
 faremo
@@ -2182,6 +2182,7 @@ levo
 manto
 muto
 scrivania
+seduto
 velo
 accanto
 acquista
@@ -2194,7 +2195,6 @@ lentamente
 lontana
 nido
 onor
-seduto
 tant
 tondo
 ##nza
@@ -2226,7 +2226,6 @@ tai
 teme
 torse
 tte
-acque
 chiedi
 coloro
 compro
@@ -2239,6 +2238,7 @@ segui
 talento
 tarda
 vere
+acque
 altezza
 crudele
 eletto
@@ -2276,7 +2276,6 @@ barba
 conviene
 dimenticare
 fossa
-intera
 minimo
 orto
 pensieri
@@ -2288,6 +2287,7 @@ condizioni
 conoscere
 dirmi
 insegna
+intera
 occupata
 sembrano
 volare
@@ -2303,7 +2303,6 @@ interessata
 poesia
 puro
 quartiere
-tace
 altrove
 americano
 ardente
@@ -2315,6 +2314,7 @@ nomi
 pasto
 pronti
 rimasto
+tace
 tolta
 udito
 vaso
@@ -2386,7 +2386,6 @@ diparte
 doglia
 drizzo
 ello
-eser
 faciea
 fenno
 fer
@@ -2416,7 +2415,6 @@ ruina
 sapea
 sembianza
 semenza
-siam
 spiro
 stea
 tacer
@@ -2429,11 +2427,13 @@ vegna
 alcuno
 canada
 chiuse
+eser
 menti
 mostrato
 rabbia
 risponde
 sarebbero
+siam
 spaghetti
 tesoro
 ##ria
@@ -2486,6 +2486,7 @@ vederti
 attenta
 canadese
 coronavirus
+giunti
 incomincio
 innocente
 lasciai
@@ -2498,9 +2499,7 @@ uscita
 ##ate
 bonta
 condotto
-doveva
 forno
-giunti
 membro
 miglia
 osaka
@@ -2510,6 +2509,7 @@ tranne
 vediamo
 continuare
 diceva
+doveva
 farla
 giocatore
 grand
@@ -2542,6 +2542,7 @@ creature
 difese
 distese
 farti
+gliel
 intese
 mentito
 mondiale
@@ -2556,7 +2557,6 @@ esiste
 faville
 fotografia
 girando
-gliel
 importanza
 lava
 macchine
@@ -2649,6 +2649,7 @@ gusto
 pietre
 pozzo
 schiena
+soluzione
 straniera
 tieni
 vergine
@@ -2665,7 +2666,6 @@ passeggiata
 recente
 risposte
 sandwich
-soluzione
 visione
 anziano
 chiede
@@ -2765,7 +2765,6 @@ mali
 omicidio
 ottenere
 pensai
-perfetta
 piene
 poche
 procede
@@ -2789,6 +2788,7 @@ modi
 mura
 nasce
 pelo
+perfetta
 termini
 ##do
 algeria
@@ -2825,7 +2825,6 @@ leggero
 lieve
 mangiano
 metro
-oramai
 pio
 pover
 rei
@@ -2868,7 +2867,9 @@ mastro
 merzede
 mirabil
 morir
+nazionalita
 ogi
+oramai
 parlamento
 parra
 peccator
@@ -2903,10 +2904,8 @@ doni
 eccellente
 farete
 fiato
-nazionalita
 succede
 veloci
-vestita
 vorreste
 alibi
 avevi
@@ -2921,6 +2920,7 @@ seguente
 studi
 van
 verbo
+vestita
 vivace
 abbandona
 africa
@@ -2998,6 +2998,7 @@ servizio
 signora
 specie
 ##sce
+arrivati
 avrete
 berbero
 credete
@@ -3009,7 +3010,6 @@ seria
 spiegazione
 vedervi
 abitano
-arrivati
 cantava
 colori
 decidere
@@ -3123,6 +3123,7 @@ fugge
 mestiere
 necessita
 occasione
+passaporto
 potevo
 risponda
 seguiva
@@ -3147,7 +3148,6 @@ labbra
 miseri
 nascondendo
 palla
-passaporto
 pausa
 ricchezza
 ritenne
@@ -3317,7 +3317,6 @@ sapevi
 segnato
 suoni
 terremoto
-trascorse
 ##chi
 ##vamo
 cala
@@ -3336,6 +3335,7 @@ pratica
 quindici
 sano
 stagione
+trascorse
 ##go
 appetito
 ballo
@@ -3453,7 +3453,6 @@ clima
 compagno
 conosciamo
 contratto
-desiderio
 destino
 disposta
 distante
@@ -3480,6 +3479,7 @@ amano
 bacio
 capitano
 creare
+desiderio
 dicesse
 distrutto
 dolcezza
@@ -3497,7 +3497,6 @@ propri
 raccontato
 ragiona
 rivista
-rosse
 saprai
 sazio
 servire
@@ -3509,7 +3508,6 @@ animal
 ascoltato
 caddi
 controllare
-costosa
 differenti
 diventata
 gigante
@@ -3523,6 +3521,7 @@ pente
 ragni
 regione
 rifiutato
+rosse
 superare
 tempie
 tiro
@@ -3536,6 +3535,7 @@ andarci
 apprezzo
 arresta
 certamente
+costosa
 demonio
 discutere
 facci
@@ -3563,6 +3563,7 @@ vena
 viaggi
 volgendo
 abia
+affisse
 agia
 allegrezza
 allotta
@@ -3610,6 +3611,7 @@ favelle
 favilla
 fedel
 fello
+fera
 fiede
 figliuolo
 fioco
@@ -3679,6 +3681,7 @@ sospeso
 soverchio
 sovresso
 spazia
+sposarsi
 straniero
 superbia
 sustanza
@@ -3703,16 +3706,13 @@ vincer
 vinta
 vivanda
 volgiti
-affisse
 amato
 andavamo
 becco
 benzina
 boschi
-comunque
 crisi
 dieta
-fera
 ferita
 gentilezza
 immagino
@@ -3726,7 +3726,6 @@ riga
 riparato
 sana
 scrittore
-sposarsi
 visse
 ##rete
 ##trice
@@ -3741,6 +3740,7 @@ cantato
 certa
 chiude
 cioccolato
+comunque
 conduce
 crude
 fantasia
@@ -4089,7 +4089,6 @@ cigli
 cittadino
 colmo
 congiunto
-corsa
 darti
 disponibile
 fallire
@@ -4119,6 +4118,7 @@ tempra
 abate
 accelerato
 acerbo
+acquistar
 affezion
 agnel
 alber
@@ -4158,6 +4158,7 @@ comprender
 congiunta
 contr
 coperchio
+corsa
 corsi
 costanza
 costei
@@ -4253,6 +4254,7 @@ nascere
 natural
 nature
 nepote
+nfino
 ngegno
 nomar
 nver
@@ -4331,6 +4333,7 @@ turbo
 uccel
 umilmente
 valletto
+vece
 vegg
 verno
 vertu
@@ -4345,7 +4348,6 @@ vos
 vuoli
 ##4
 ##io
-acquistar
 arti
 cambiamento
 chiaramente
@@ -4360,7 +4362,6 @@ jim
 livello
 musicista
 nascosta
-nfino
 padri
 passava
 pecora
@@ -4377,7 +4378,6 @@ sincera
 solare
 stanze
 torte
-vece
 ##cchi
 ##ggi
 ##rie
@@ -4564,6 +4564,7 @@ vedono
 veri
 versione
 ##1
+##ko
 addio
 artificiale
 aula
@@ -4593,7 +4594,6 @@ vendita
 ##cato
 ##ccia
 ##er
-##ko
 ##nze
 aiutarvi
 ammiro
@@ -4607,11 +4607,11 @@ esseri
 fotografie
 fuga
 gigli
+illegale
 interessi
 inutile
 lascero
 nuda
-partecipato
 particolare
 pinocchio
 piovendo
@@ -4652,7 +4652,7 @@ fantasmi
 finlandia
 franco
 gridavano
-illegale
+innocenti
 lamenta
 luglio
 merito
@@ -4661,6 +4661,7 @@ mettete
 molli
 on
 orso
+partecipato
 peggiore
 permette
 pigro
@@ -4700,7 +4701,6 @@ fuji
 giacca
 girare
 innamora
-innocenti
 libreria
 lieti
 mancano
@@ -4755,7 +4755,6 @@ lavagna
 los
 lucia
 magno
-magra
 mercede
 minori
 mobile
@@ -4764,6 +4763,7 @@ oggetti
 onora
 ormai
 osso
+pericolosa
 portai
 possano
 prenderai
@@ -4800,6 +4800,7 @@ bucato
 calmo
 cammina
 capi
+centauro
 compagna
 crebbe
 cristallo
@@ -4812,10 +4813,10 @@ gialli
 improbabile
 lavoratori
 lussuria
+magra
 maligno
 malvagio
 mangiar
-mappa
 maturo
 michel
 miro
@@ -4830,7 +4831,6 @@ ottava
 pan
 passammo
 peggior
-pericolosa
 piglia
 pigliare
 pii
@@ -4858,6 +4858,7 @@ traditore
 traendo
 trasferito
 usciro
+uscisse
 vota
 ##6
 ##7
@@ -4875,7 +4876,6 @@ attualmente
 bambola
 bibbia
 carni
-centauro
 comandamento
 commerciale
 corea
@@ -4898,6 +4898,7 @@ infamia
 insalata
 istruzione
 lavando
+mappa
 nona
 ovvio
 pacco
@@ -4925,7 +4926,6 @@ traverso
 troppe
 ubriaca
 unito
-uscisse
 vedeva
 visito
 ##h
@@ -5110,6 +5110,7 @@ motti
 mutato
 nascosa
 nascoso
+ncendio
 nimica
 ninfe
 nn
@@ -5151,7 +5152,6 @@ provede
 proveder
 prudente
 puossi
-puot
 purga
 ragionando
 ragionar
@@ -5261,6 +5261,7 @@ vuota
 zuffa
 ##uti
 ##vate
+18
 abbassare
 aeroplano
 amava
@@ -5273,13 +5274,13 @@ fresco
 gratuito
 istruzioni
 microonde
-ncendio
 oceano
 pasta
 popolari
 portate
 pregava
 preoccuparsi
+puot
 rapina
 rendono
 rompe
@@ -5290,7 +5291,6 @@ superato
 volentieri
 zanzare
 ##ata
-18
 attraversa
 averti
 brevi
@@ -5323,7 +5323,6 @@ obama
 offesa
 ombrelli
 oso
-persi
 piacevole
 piova
 pittura
@@ -5363,8 +5362,10 @@ lasciarlo
 madrid
 mago
 manna
+maschi
 morde
 pedoni
+persi
 prendiamo
 preoccuparti
 principe
@@ -5405,7 +5406,6 @@ inganno
 latina
 licenziato
 manchi
-maschi
 mobili
 montone
 movimento
@@ -5448,7 +5448,6 @@ busta
 chiamano
 chiamate
 codardo
-condizionata
 confesso
 credeva
 critiche
@@ -5491,6 +5490,7 @@ cappotto
 cede
 chiamava
 compiuto
+condizionata
 decisioni
 digli
 dimissioni
@@ -5501,7 +5501,6 @@ foglia
 gelosi
 infelici
 maglione
-matura
 milione
 mostrarti
 musa
@@ -5556,6 +5555,7 @@ lavorava
 linea
 lunghezza
 malati
+matura
 muore
 norma
 nuvola
@@ -5682,6 +5682,7 @@ corpus
 credevo
 croazia
 detesta
+direttamente
 dopodomani
 dormi
 erbe
@@ -5751,10 +5752,8 @@ coppa
 coscia
 difende
 difendo
-direttamente
 distesa
 diventati
-dormo
 entrate
 farli
 fattoria
@@ -5828,6 +5827,7 @@ debbano
 dimostri
 documento
 dormiva
+dormo
 en
 finisce
 formata
@@ -5894,6 +5894,7 @@ attivi
 balla
 bui
 calar
+camminando
 castelli
 centrale
 chiudi
@@ -6007,7 +6008,6 @@ belleza
 buco
 cadavere
 cali
-camminando
 cattolica
 chiedesse
 cibi
@@ -6043,7 +6043,6 @@ lacca
 leggete
 lembo
 limone
-linee
 lungamente
 lupa
 marrone
@@ -6189,6 +6188,7 @@ brami
 brandon
 brieve
 brunetto
+bulicame
 caccera
 cacume
 caler
@@ -6224,6 +6224,7 @@ colu
 cominciamento
 commettere
 comparte
+compiute
 comprero
 concepe
 conduca
@@ -6283,7 +6284,6 @@ discoverto
 disdegnoso
 disfatto
 disiando
-disianza
 disir
 dispaia
 dispregio
@@ -6416,6 +6416,7 @@ lievemente
 lievi
 limo
 limosine
+linee
 lodando
 lontan
 loquela
@@ -6470,7 +6471,6 @@ ngannata
 nimico
 nipoti
 nnanzi
-nobil
 nocchier
 nominar
 normandia
@@ -6620,6 +6620,7 @@ scaldar
 scalee
 scempio
 schiere
+scienziati
 scola
 scoscende
 scotto
@@ -6656,7 +6657,6 @@ sospinse
 sospira
 sospirando
 soverchia
-sovrappeso
 spechio
 speglio
 spiaccia
@@ -6742,16 +6742,15 @@ ascoltate
 assassino
 attaccato
 biancheria
-bulicame
 candela
 colpevoli
 coma
-compiute
 corna
 costruita
 cotta
 crederebbe
 davano
+disianza
 dizionari
 dure
 egoista
@@ -6771,7 +6770,6 @@ globale
 hamburger
 immobili
 incendi
-interprete
 invitare
 lavava
 malinconia
@@ -6779,6 +6777,7 @@ messi
 mettera
 musicale
 nascosti
+nobil
 organo
 prega
 prenotazione
@@ -6789,13 +6788,13 @@ ridire
 rubinetto
 saggia
 sbaglio
-scienziati
 segna
 semplici
 senna
 sforzo
 sigarette
 sorda
+sovrappeso
 stese
 stipendio
 struttura
@@ -6845,6 +6844,7 @@ giudizio
 grati
 grigi
 indicare
+interprete
 irlanda
 istante
 jazz
@@ -6857,6 +6857,7 @@ nazioni
 nervosi
 nilo
 pagati
+parlarti
 pianse
 picnic
 polacco
@@ -6926,7 +6927,6 @@ nascondere
 nettuno
 obiettivi
 paghero
-parlarti
 pianeti
 picasso
 pittore
@@ -7215,7 +7215,6 @@ urlato
 vantaggi
 vegetariano
 venere
-vetri
 vinceva
 viola
 vocali
@@ -7319,6 +7318,7 @@ tormenta
 trasformato
 umido
 uniforme
+vetri
 vile
 violenta
 ##cata
@@ -7483,12 +7483,12 @@ divorziare
 dovrai
 eccesso
 educato
+esperimento
 eventi
 famose
 farci
 feri
 fondato
-fondi
 fredde
 freschi
 general
@@ -7612,12 +7612,12 @@ diana
 diavoli
 disaccordo
 eiffel
-esperimento
 essenziale
 facessi
 falsita
 fermati
 folli
+fondi
 fracasso
 fragole
 funzioni
@@ -7652,7 +7652,6 @@ ok
 oppone
 pagata
 pallida
-parata
 parcheggiato
 paulo
 perdera
@@ -7664,11 +7663,9 @@ pizzeria
 pratico
 preoccupa
 professori
-profonde
 provarlo
 quegli
 ragionamenti
-ricche
 rigido
 ripetere
 riposa
@@ -7791,6 +7788,7 @@ novelli
 olanda
 org
 panno
+parata
 parecchi
 parleremo
 peccatore
@@ -7805,11 +7803,13 @@ prepara
 professionista
 profeta
 profitto
+profonde
 prometta
 provate
 raccomandato
 reputazione
 ribelli
+ricche
 ricordarsi
 rifece
 riposata
@@ -7891,8 +7891,10 @@ comprarlo
 conforme
 confronto
 convinti
+copio
 correnti
 corrotto
+cosse
 cotto
 crema
 dedicato
@@ -7952,7 +7954,6 @@ pigrizia
 praticare
 predicare
 prendesse
-prendila
 private
 privati
 promisi
@@ -8020,7 +8021,6 @@ vulcano
 ##mita
 ##ntata
 ##rico
-##vita
 abbaia
 abitate
 abituati
@@ -8080,8 +8080,6 @@ consola
 consunto
 contenuto
 coperchi
-copio
-cosse
 create
 creatore
 crosta
@@ -8173,6 +8171,7 @@ ponticello
 pranzando
 precisione
 preghiera
+prendila
 preoccupatevi
 procedendo
 progettato
@@ -8224,6 +8223,7 @@ tolte
 tomi
 tornano
 torrente
+trascorri
 vaghe
 vendicata
 videogiochi
@@ -8250,6 +8250,7 @@ zanzara
 ##ture
 ##ura
 ##uta
+##vita
 abandonare
 abandonato
 abatte
@@ -8617,6 +8618,7 @@ debili
 degie
 deidamia
 derate
+desdir
 destre
 diche
 dichi
@@ -8900,6 +8902,7 @@ igne
 ignudi
 ilion
 imaginata
+imaginato
 imbianca
 impera
 imperador
@@ -9265,7 +9268,6 @@ poveruon
 prava
 precinto
 predicando
-predicanti
 predicar
 pregiar
 pregiava
@@ -9297,7 +9299,6 @@ quete
 queti
 quiditate
 raccese
-raccorci
 rachele
 racomanda
 radi
@@ -9623,7 +9624,6 @@ trapassante
 trarmi
 trarne
 trarria
-trascorri
 trasmutai
 trasmutare
 trasmutata
@@ -9685,7 +9685,6 @@ vacante
 vaghezza
 vali
 vallea
-vangelio
 vanni
 varo
 varria
@@ -9731,6 +9730,7 @@ vivagno
 voglenza
 voglienza
 volerne
+volevate
 volga
 volgea
 volgendosi
@@ -9790,7 +9790,6 @@ contemporanea
 cuffia
 curiosi
 deboli
-desdir
 dipendente
 dipingere
 esatta
@@ -9804,7 +9803,6 @@ galassia
 gonne
 gusti
 helen
-imaginato
 immigrati
 imparano
 impedi
@@ -9831,11 +9829,13 @@ peter
 piazza
 polmoni
 preavviso
+predicanti
 prenderne
 prendeva
 provengono
 puniti
 racconti
+raccorci
 religiose
 respirare
 restituito
@@ -9862,11 +9862,11 @@ the
 trasferi
 ubriacone
 ulteriore
+vangelio
 vasta
 vattene
 vincitore
 vivevano
-volevate
 ##cano
 ##ciato
 ##en
@@ -10140,7 +10140,6 @@ rifatto
 rifugiati
 rimasero
 ringraziamento
-ringraziarti
 risolverlo
 riusciti
 russi
@@ -10303,6 +10302,7 @@ puntuali
 rapido
 realizzo
 ringraziare
+ringraziarti
 riposare
 riprese
 rivelato
@@ -10549,7 +10549,6 @@ accusata
 affamate
 aggiunse
 aggravato
-aiutati
 aiuterai
 alfa
 ammalati
@@ -10767,6 +10766,7 @@ accordato
 addormentai
 addormentati
 affollato
+aiutati
 alcool
 ambizione
 amichevole
@@ -10983,11 +10983,9 @@ atterro
 aumentare
 aurora
 autori
-averci
 avocado
 aziendale
 bagaglio
-baule
 bevette
 biasimarmi
 biciclette
@@ -11032,6 +11030,7 @@ durato
 emigrare
 equatore
 eretica
+etiope
 familiare
 femminismo
 filosofo
@@ -11223,7 +11222,6 @@ allertato
 alzai
 alzarmi
 ambasciatore
-amera
 amicizie
 ammirato
 ammisero
@@ -11239,10 +11237,12 @@ atleti
 atmosferico
 atomi
 attacchi
+averci
 avessero
 azoto
 bambole
 bangladesh
+baule
 beva
 bis
 britannici
@@ -11294,7 +11294,6 @@ eletta
 entrano
 estinzione
 estreme
-etiope
 fagioli
 fastidiosi
 fertile
@@ -11373,6 +11372,7 @@ romane
 rompipalle
 ruba
 rumeno
+scelga
 scherzi
 scherzo
 schiari
@@ -11447,6 +11447,7 @@ zodiaco
 ##ori
 ##ose
 ##rte
+##stan
 ##tali
 ##tate
 ##tente
@@ -11468,6 +11469,7 @@ aggiunta
 agricola
 allarme
 alternativa
+amera
 ammalare
 ammette
 andre
@@ -11671,7 +11673,6 @@ riportato
 riposarmi
 riposi
 rovinera
-scelga
 sciocchi
 semestre
 server
@@ -11691,7 +11692,6 @@ territori
 tirano
 tolga
 tracce
-tranquille
 tronchi
 trovarci
 trovarsi
@@ -11738,7 +11738,6 @@ white
 ##risce
 ##rite
 ##smi
-##stan
 ##stiche
 ##tale
 ##tando
@@ -11908,6 +11907,7 @@ ipotesi
 ispirazione
 iulia
 jeanne
+kazakistan
 killer
 lamento
 lascerebbe
@@ -12058,6 +12058,7 @@ tormentato
 torneo
 tovaglia
 tradotta
+tranquille
 trasforma
 trattare
 tremavano
@@ -12280,7 +12281,6 @@ eseguita
 esitazione
 esservi
 etico
-falle
 fascino
 fastidio
 federico
@@ -12343,7 +12343,6 @@ interpretata
 invidiosa
 iphone
 iv
-kazakistan
 km
 lamentarmi
 lampada
@@ -12386,6 +12385,7 @@ muoiono
 musulmana
 mutui
 narita
+negate
 negligente
 nocivo
 nodi
@@ -12446,7 +12446,6 @@ puntura
 quantistica
 quod
 rapide
-rappresentano
 residenza
 richieste
 riconoscete
@@ -12779,6 +12778,7 @@ difenda
 digitali
 dilettava
 dipendenti
+dipinsi
 dipinte
 dirama
 discendeva
@@ -12810,6 +12810,7 @@ evita
 fagli
 faglia
 falde
+falle
 falliti
 fatene
 faticoso
@@ -12948,7 +12949,6 @@ musicali
 nasca
 nascente
 nebulosa
-negate
 nemiche
 nobilita
 nondimeno
@@ -13018,6 +13018,7 @@ quadranti
 quotidiana
 quotidiano
 rape
+rappresentano
 rappresentante
 rassegna
 ravviva
@@ -13162,7 +13163,6 @@ torturata
 toscano
 traina
 transito
-trasparenti
 trasparenza
 travi
 trentino
@@ -14095,6 +14095,7 @@ balba
 balco
 balcone
 balda
+baldanza
 balestrando
 ballia
 bandera
@@ -14630,6 +14631,7 @@ circulata
 circulava
 circulazion
 circumcinto
+circuncidere
 circunferenze
 circunfulse
 circunspetta
@@ -15155,7 +15157,6 @@ dignitadi
 dignitate
 dignitosa
 digradar
-digressi
 digression
 digrigna
 digrignan
@@ -15196,7 +15197,6 @@ dimessa
 dimino
 dimonio
 dimorando
-dimorante
 dimorasse
 dimorato
 dimore
@@ -15225,7 +15225,6 @@ dipela
 dipelato
 dipinghe
 dipingon
-dipinsi
 diporta
 diporto
 dipuose
@@ -15652,6 +15651,7 @@ ester
 estimo
 estranei
 esuriendo
+etadi
 etati
 eteocle
 etiopo
@@ -16923,6 +16923,7 @@ lusingar
 lusinghar
 lusinghera
 lussuriosa
+lustra
 lutti
 macabeo
 maccabei
@@ -16939,6 +16940,7 @@ madian
 madona
 magagne
 magagniare
+magagniati
 magica
 magiche
 maginare
@@ -17389,7 +17391,6 @@ ninferno
 nino
 niobe
 niso
-nitide
 nnamora
 nnanellata
 nnerro
@@ -17962,8 +17963,10 @@ portir
 pos
 posando
 posano
+posanza
 posare
 posarmi
+posasi
 posava
 posponendo
 posposta
@@ -18299,6 +18302,7 @@ rappaciati
 rapporta
 raquistarli
 rascia
+rase
 rasicurando
 rasicurata
 rasicurato
@@ -18687,7 +18691,6 @@ ritenuti
 riterrai
 ritese
 ritondo
-ritorci
 ritornarci
 ritornaro
 ritorse
@@ -18749,6 +18752,7 @@ romor
 rompendo
 rompeo
 romper
+rompesse
 rompieno
 ronca
 ronchion
@@ -19813,7 +19817,6 @@ terrenzio
 terrestro
 terribil
 terroristi
-tersi
 terze
 terzeruolo
 tesifon
@@ -19963,6 +19966,7 @@ trasmutar
 trasmutarsi
 trasparea
 trasparente
+trasparenti
 trasparer
 trasparere
 trasparien
@@ -20182,6 +20186,7 @@ vasel
 vassalli
 vassene
 vau
+vechi
 vechie
 vechio
 veco
@@ -20537,7 +20542,6 @@ attirare
 attrezzi
 avanzata
 baciando
-baldanza
 barcellona
 beccato
 benessere
@@ -20559,7 +20563,6 @@ chiacchierata
 chiamatemi
 ciliegi
 cipro
-circuncidere
 cocktail
 colloquio
 colpire
@@ -20581,6 +20584,8 @@ delfino
 delinquenza
 dessi
 detective
+digressi
+dimorante
 dipendono
 ditegli
 ditele
@@ -20596,7 +20601,6 @@ eliminato
 esprime
 estivo
 estremo
-etadi
 europee
 fattorie
 fbi
@@ -20638,8 +20642,6 @@ lione
 liquido
 luis
 lussemburghese
-lustra
-magagniati
 maglia
 magnus
 maiuscola
@@ -20659,6 +20661,7 @@ miliardo
 minerali
 nascondono
 negativo
+nitide
 notare
 numerosa
 nuotatrice
@@ -20680,8 +20683,6 @@ piangono
 piatta
 pinguino
 polso
-posanza
-posasi
 poterla
 prenderlo
 preparero
@@ -20701,7 +20702,6 @@ quadri
 quesito
 ragazzina
 rapinato
-rase
 religioni
 ricordano
 riduzione
@@ -20713,9 +20713,9 @@ rinuncio
 ripararlo
 riparazione
 ripeterlo
+ritorci
 rivederti
 rivelata
-rompesse
 rompo
 rovino
 saltata
@@ -20769,6 +20769,7 @@ telefonate
 telegrafo
 temporanea
 tensione
+tersi
 thailandia
 timide
 timidi
@@ -20789,7 +20790,6 @@ valga
 variano
 variazioni
 varsavia
-vechi
 vederle
 vegetariani
 venderli
@@ -21510,7 +21510,6 @@ fabbriche
 fabbrichera
 fantastici
 fatelo
-ferrovie
 finanziari
 finanziaria
 fissare
@@ -21612,6 +21611,7 @@ permetti
 persuadere
 pesche
 pfirsichbaeumchen
+pipa
 plagio
 pochino
 pokemon
@@ -22074,6 +22074,7 @@ fazzoletto
 fenomeni
 fermava
 ferrovia
+ferrovie
 fidarvi
 fidiamo
 flash
@@ -22172,7 +22173,6 @@ monopolio
 morbida
 multe
 muratore
-murphy
 muscoli
 nagasaki
 nascono
@@ -22202,7 +22202,6 @@ permetto
 personal
 petizione
 pianificazione
-pipa
 pirenei
 pitturare
 portiamo
@@ -22862,6 +22861,7 @@ montecristo
 mordo
 moriremo
 mostratemi
+murphy
 mutuo
 nani
 nazisti
